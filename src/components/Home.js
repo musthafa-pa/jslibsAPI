@@ -25,40 +25,75 @@ const Home = (props) => {
                     
                 </div>
                 <div id="section-2">
-                    <div className="row">
-                        <div className="col-md-3" id="res-1">
-                            <p>Angular</p>
-                            <button type="button" className="btn btn-primary">View More</button>
-                        </div>
-                        <div className="col-md-3" id="res-2">
-                            <p>React</p>
-                            <button type="button" className="btn btn-primary">View More</button>
-
-                        </div>
-                        <div className="col-md-3" id="res-3">
-                            <p>Vue</p>
-                            <button type="button" className="btn btn-primary">View More</button>
-
+                <h5 id="sec_head">4 Results found!</h5>
+                <div id="section3">
+                    <div id="sec_3_1">
+                    <div>
+                        <h4 id="sec_3_1_h4">React JS</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
                         </div>
                     </div>
-                    <div className="row">
-                        <div className="col-md-3" id="res-1">
-                            <p>ChartJS</p>
-                            <button type="button" className="btn btn-primary">View More</button>
-
+                    <div id="sec_3_2">
+                    <div>
+                        <h4 id="sec_3_1_h4">Angular</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
                         </div>
-                        <div className="col-md-3" id="res-2">
-                            <p>HighCharts</p>
-                            <button type="button" className="btn btn-primary">View More</button>
 
+                    </div>
+                    <div id="sec_3_3">
+                    <div>
+                        <h4 id="sec_3_1_h4">React Native</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
                         </div>
-                        <div className="col-md-3" id="res-3">
-                            <p>CanvasJS</p>
-                            <button type="button" className="btn btn-primary">View More</button>
 
+                    </div>
+                    <div id="sec_3_4">
+                    <div>
+                        <h4 id="sec_3_1_h4">Vue</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
                         </div>
+
                     </div>
                 </div>
+                <div id="section3">
+                    <div id="sec_3_1">
+                    <div>
+                        <h4 id="sec_3_1_h4">Electron</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
+                        </div>
+                    </div>
+                    <div id="sec_3_2">
+                    <div>
+                        <h4 id="sec_3_1_h4">NodeJS</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
+                        </div>
+
+                    </div>
+                    <div id="sec_3_3">
+                    <div>
+                        <h4 id="sec_3_1_h4">Webpack</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
+                        </div>
+
+                    </div>
+                    <div id="sec_3_4">
+                    <div>
+                        <h4 id="sec_3_1_h4">Grunt</h4>
+                        <p id="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididun</p>
+                        <button type="button" id="sec_3_1_btn">Learn more!</button>
+                        </div>
+
+                    </div>
+                </div>
+                </div>
+                
             </div>
 
             <footer class="bottom">Made with ❤ By <a href="https://musthafa-pa.github.io">Musthafa</a></footer>
